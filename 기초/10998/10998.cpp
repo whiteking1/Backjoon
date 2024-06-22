@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int A, B;
+    cin >> A >> B;
+
+    // A¿Í BÀÇ °ö¼À °á°ú Ãâ·Â
+    cout << A * B << endl;
+
+    return 0;
+
+}
